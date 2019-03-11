@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Puslapis apie mane</title>
+</head>
+<body background="../omg/img/pexels-photo-1030941.jpeg">
+<b>Laba diena!</b>
+<hr>
+<center>
+<br> <p>Šiandieną darau mokyklinį darbą apie save, tad gali būti, jog daug apie mane sužinosite.</p></br>
+</center>
+<A href="pvz2.html">Mano antras puslapis</A>
+<h1>Aš mėgstu:</h1>
+<li>Skaityti</li>
+<li>Rašyti</li>
+<li>Dirbti</li>
+<br>
+<hr>
+<br>
+</body>
+</html>
+........ style.css
+b{
+    color: blue;
+}
+p{
+color: coral;
+}
